@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "SellPilot AI launch"
+git branch -M main
+git remote add origin https://github.com/YOUR_USERNAME/sellpilot-ai.git
+git push -u origin main
